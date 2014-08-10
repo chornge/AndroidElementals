@@ -297,6 +297,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Eaze Graph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | An Android chart and graph library supporting scaling and dragging by gesture
 
 #### <a name="otherui">Other
 
