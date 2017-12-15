@@ -1,7 +1,7 @@
 Some useful libraries, samples, tools & Open Source apps for Android
 ====================================================================
 
-Collection if libraries starred during some years of Android Development. Here is the definitely list of android Open Source libraries
+Collection of libraries starred during some years of Android Development. Here is the list of android Open Source libraries
 
 ``` * In titles means it has been categorized more than once (in different categories) ```
 
