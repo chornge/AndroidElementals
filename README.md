@@ -478,7 +478,7 @@ http://square.github.io/otto/
 [Hugo](https://github.com/JakeWharton/hugo) | Annotation-triggered method call logging for your debug builds
 [Phone Home](https://github.com/nebulabsnyc/PhoneHome) | PhoneHome is a standalone library that sends logs from remote Android devices to a central server for debugging. PhoneHome requires nothing of end users
 [Timber](https://github.com/JakeWharton/timber) | A logger with a small, extensible API which provides utility on top of Android's normal Log class. http://jakewharton.github.io/timber/
-[Debug Log](https://github.com/MustafaFerhan/DebugLog) | Create a simple and more understandable Android logs
+[Debug Log](https://github.com/MustafaFerhan/DebugLog) | Create simple and more understandable Android logs
 
 ### <a name="localizationtools">Localization
 
